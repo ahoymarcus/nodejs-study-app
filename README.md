@@ -1,7 +1,7 @@
-# Metric-Imperial Converter - Freecodecamp.org
+# Learning Node-JS || Shelly Powers
 
 
-Primeiro projeto da certificação **Quality Assurance** para backend com Node-JS. Trata-se de produzir uma aplicação backend que realize conversões métricas dentro de um sistema de rotas HTML.[^1]
+Aprofundando no estudo do Noje-JS com o livro *Aprendendo Node-JS de Shelly Powers*.[^1]
 
 <br />
 
@@ -15,13 +15,7 @@ Primeiro projeto da certificação **Quality Assurance** para backend com Node-J
 Dependências:
 
 - Dotenv
-- Express-JS
-- Body-parser
-- Cors
-- Nodemon
-- Chai
-- Chai-http
-- Mocha
+- Mime
 
 
 
@@ -73,7 +67,7 @@ Dependências:
 <br />
 <br />
 
-[^1] Back End Development and APIs - Freecodecamp.org.
+[^1] POWERS, Shelly. Aprendendo Node-JS. Ed.Novatec, 2017.
 
 
 

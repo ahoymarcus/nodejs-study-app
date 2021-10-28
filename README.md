@@ -16,20 +16,22 @@ Dependências:
 
 - Dotenv
 - Mime
-
+- Commander
+- Chokidar
+- Stat-mode
 
 
 
 <br />
 
-### Metric-Imperial Converter App home page:          
+### :          
 ![File Metadata App home page](/public/images/)
 
 
 
 <br />
 
-### Fazendo uma requisição POST para upload de um arquivo e devolvendo ao cliente metadados como resposta:          
+### :          
 ![Imagem de uma requisição POST para upload de um arquivo e devolvendo ao cliente metadados como resposta](/public/images/)
 
 
@@ -40,7 +42,7 @@ Dependências:
 <br />
 
 
-### Resultado final do projeto em Freecodecamp.org:               
+### :               
 ![Resultado final do projeto em Freecodecamp.org](/public/images/)
 
 
@@ -49,7 +51,7 @@ Dependências:
 <br />
 
 
-### Resultado final do projeto em Freecodecamp.org:               
+### :               
 ![Resultado final do projeto em Freecodecamp.org](/public/images/)
 
 
@@ -58,7 +60,7 @@ Dependências:
 <br />
 
 
-### Resultado final do projeto em Freecodecamp.org:               
+### :               
 ![Resultado final do projeto em Freecodecamp.org](/public/images/)
 
 

@@ -9,7 +9,9 @@ program
 	.option('-f, --file [file name]', 'Destination File Name')
 	.option('-t, --type <mode>', /^(gzip|deflate)$/i)
 	.parse(process.argv);
-	
+
+// Exemplo de chamada
+// ./polaroid -s phoenix5a.png -f phoenixpolaroid.png	
 
 var compress;
 if (program.type == 'deflate') {
